@@ -46,6 +46,9 @@ format: post
 			{% if page.comments == true %}
 			{% include _comments.html %}
 			{% endif %}
+			{% if page.slider %}
+  			{% include slider.html height="50" unit="%" transition="slide" duration="7" %}
+			{% endif %}
 		</article>
 	</div><!-- /.medium-8.columns -->
 
