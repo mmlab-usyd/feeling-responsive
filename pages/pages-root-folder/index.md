@@ -26,13 +26,13 @@ slider:
 text_color: white
 shadow_color: black
 slides: 
-  - image: images/gallery-example-1.jpg
+  - image: gallery-example-1.jpg
     slide_html:
-  - image: images/gallery-example-2.jpg
+  - image: gallery-example-2.jpg
     slide_html: "<h2>Yes, this carousel supports html texting</h2>"
-  - image: images/gallery-example-3.jpg
+  - image: gallery-example-3.jpg
     slide_html: "<h2>Yes, this carousel supports html texting</h2>"
-  - image: images/gallery-example-4.jpg
+  - image: gallery-example-4.jpg
     slide_html:
 #
 # Use the call for action to show a button on the frontpage
