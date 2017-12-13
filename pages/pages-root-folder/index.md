@@ -7,6 +7,7 @@
 layout: frontpage
 header:
   image_fullwidth: index_page.jpg
+title: "Multimedia Lab @ USYD"
 
 slider:
 text_color: white
