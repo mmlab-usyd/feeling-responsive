@@ -13,11 +13,11 @@ permalink: "/people/"
 
 <div class="row">
 	<div class="row">
-		<h2>Faculty</h2>
+		<h3>Faculty</h3>
 	</div>
-	---
+	<br/>
 	<div class="row">
-	  <div class="medium-4 columns"><img src="../images/people/wanli_ouyang.jpeg" width="200" height="200"></div>
+	  <div class="medium-4 columns"><img src="../images/people/wanli_ouyang.jpeg" width="150" height="150"></div>
 	</div>
 	<div class="row">
 	  <div class="medium-4 columns"><a href="http://www.ee.cuhk.edu.hk/~wlouyang/">Professor Wanli Ouyang</a></div>
@@ -28,11 +28,11 @@ permalink: "/people/"
 ---
 <div class="row">
 	<div class="row">
-		<h2>Postgraduate Students</h2>
+		<h3>Postgraduate Students</h3>
 	</div>
-	---
+	<br/>
 	<div class="row">
-	  <div class="medium-3 columns"><img src="../images/people/shuyang_sun.png" width="200" height="200"></div>
+	  <div class="medium-3 columns"><img src="../images/people/shuyang_sun.png" width="150" height="150"></div>
 	</div>
 	<div class="row">
 		  <div class="medium-3 columns"><a href="https://kevin-ssy.github.io/">Shuyang Sun</a></div>
