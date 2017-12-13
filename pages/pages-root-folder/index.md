@@ -61,7 +61,7 @@ homepage: true
 ---
 <div class="row">
   <div class="column medium-3">
-    <img src="assets/img/favicon-usyd.png">
+    <img src="assets/img/favicon-usyd.png" width="140" height="150">
   </div>
   <div class="column medium-9">
     <div class="row">
