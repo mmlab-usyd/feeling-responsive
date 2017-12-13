@@ -57,3 +57,9 @@ permalink: /index.html
 #
 homepage: true
 ---
+
+## News
+- Our lab homepage is now onine!
+- We are hiring! Several Ph.D. positions available currently at USYD in computer vision. Please send to [this email address]('') for detailed information.
+
+---
