@@ -60,6 +60,9 @@ permalink: /index.html
 homepage: true
 ---
 
+## Multimedia Lab
+####     The University of Sydney
+
 
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
