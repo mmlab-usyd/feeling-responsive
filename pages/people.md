@@ -88,4 +88,34 @@ permalink: "/people/"
 	</div>
 </div>
 
-### Alumni
+---
+
+<div class="row">
+	<div class="row">
+		<h3 class="medium-12">Alumni</h3>
+		<br/>
+	</div>
+	
+	<div class="row">
+	Currently no alumni from our lab as we're just start-up! Come and join us!
+	  <div class="medium-2 columns student1"><img src="../images/people/guo_lu.png" width="150" height="150"></div>
+	  <div class="medium-2 columns medium-offset-1 student2"></div>
+	  <div class="medium-2 columns medium-offset-1 student3"></div>
+	  <div class="medium-2 columns medium-offset-1 student4"></div>
+	  <div class="columns medium-offset-1"></div>
+	</div>
+	<div class="row">
+		  <div class="medium-2 columns student1">Guo Lu</div>
+		  <div class="medium-2 columns medium-offset-1 student2"></div>
+		  <div class="medium-2 columns medium-offset-1 student3"></div>
+		  <div class="medium-2 columns medium-offset-1 student4"></div>
+		  <div class="columns medium-offset-1"></div>
+	</div>
+	<div class="row">
+	  <div class="medium-2 columns student1">Ph.D. from SJTU</div>
+	  <div class="medium-2 columns medium-offset-1 student2"></div>
+	  <div class="medium-2 columns medium-offset-1 student3"></div>
+	  <div class="medium-2 columns medium-offset-1 student4"></div>
+	  <div class="columns medium-offset-1"></div>
+	</div>
+</div>
