@@ -9,25 +9,33 @@ header:
 permalink: "/people/"
 ---
 
-## Faculty
----
+
+
 <div class="row">
 	<div class="row">
-	  <div class="medium-2 columns"><img src="../images/people/wanli_ouyang.jpeg" width="200" height="200"></div>
+		<h2>Faculty</h2>
+	</div>
+	---
+	<div class="row">
+	  <div class="medium-4 columns"><img src="../images/people/wanli_ouyang.jpeg" width="200" height="200"></div>
 	</div>
 	<div class="row">
-	  <div class="medium-2 columns"><a href="http://www.ee.cuhk.edu.hk/~wlouyang/">Professor Wanli Ouyang</a></div>
+	  <div class="medium-4 columns"><a href="http://www.ee.cuhk.edu.hk/~wlouyang/">Professor Wanli Ouyang</a></div>
 	</div>
 </div>
 
-## Postgraduate Students
+
 ---
 <div class="row">
 	<div class="row">
-	  <div class="medium-2 columns"><img src="../images/people/shuyang_sun.png" width="200" height="200"></div>
+		<h2>Postgraduate Students</h2>
+	</div>
+	---
+	<div class="row">
+	  <div class="medium-3 columns"><img src="../images/people/shuyang_sun.png" width="200" height="200"></div>
 	</div>
 	<div class="row">
-		  <div class="medium-2 columns"><a href="https://kevin-ssy.github.io/">Shuyang Sun</a></div>
+		  <div class="medium-3 columns"><a href="https://kevin-ssy.github.io/">Shuyang Sun</a></div>
 	</div>
 </div>
 
