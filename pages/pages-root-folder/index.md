@@ -61,6 +61,6 @@ homepage: true
 
 ## News
 - Our lab homepage is now onine!
-- We are hiring! Several Ph.D. positions available currently at USYD in computer vision. Please send to [this email address]('') for detailed information.
+- We are hiring! Several Ph.D. positions are now available at USYD in computer vision. Students with strong academic background and/or awesome programming skill are preferred. If you are interested,  please send your CV to [this email address]("mailto:wanli.ouyang@sydney.edu.au") for further information.
 
 ---
