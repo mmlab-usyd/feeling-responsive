@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: index_page.jpg
+  image_fullwidth:
 title: "Multimedia Lab @ USYD"
 
 slider:
