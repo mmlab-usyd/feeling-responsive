@@ -19,6 +19,22 @@ slides:
   - image: gallery-example-3.jpg
     slide_html: "<h2>Yes, this carousel supports html texting</h2>"
 
+widget1:
+  title: "Research 1"
+  url: '#'
+  image: widget-1-302x182.jpg
+  text: 'Our research about xxxxxxxxxxxxxxxxxxxxxxxxx'
+widget2:
+  title: "Research 2"
+  url: '#'
+  text: 'our research about xxxxxxxxxxxxxxxxxxxxxxx <br/>'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+widget3:
+  title: "Our Research 3"
+  url: '#'
+  image: widget-github-303x182.jpg
+  text: 'our research about xxxxxxxxxxxxxxxxxxxxxxx <br/> is already online'
+
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -46,18 +62,3 @@ homepage: true
 - We are hiring! Several Ph.D. positions available currently at USYD in computer vision. Please send to [this email address]('') for detailed information.
 
 ---
-widget1:
-  title: "Research 1"
-  url: '#'
-  image: widget-1-302x182.jpg
-  text: 'Our research about xxxxxxxxxxxxxxxxxxxxxxxxx'
-widget2:
-  title: "Research 2"
-  url: '#'
-  text: 'our research about xxxxxxxxxxxxxxxxxxxxxxx <br/>'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
-widget3:
-  title: "Our Research 3"
-  url: '#'
-  image: widget-github-303x182.jpg
-  text: 'our research about xxxxxxxxxxxxxxxxxxxxxxx <br/> is already online'
