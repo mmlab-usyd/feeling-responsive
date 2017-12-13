@@ -19,6 +19,8 @@ slides:
   - image: gallery-example-3.jpg
     slide_html: "<h2>Yes, this carousel supports html texting</h2>"
 
+sidebar: right
+
 widget1:
   title: "Research 1"
   url: '#'
@@ -56,7 +58,6 @@ permalink: /index.html
 #
 homepage: true
 ---
-
 
 ## News
 - Our lab homepage is now onine!
