@@ -35,7 +35,8 @@ widget3:
   url: '#'
   image: widget-github-303x182.jpg
   text: 'our research about xxxxxxxxxxxxxxxxxxxxxxx <br/> is already online!'
-
+homepage: true
+permalink: /index.html
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -50,12 +51,12 @@ widget3:
 #  url: https://tinyletter.com/feeling-responsive
 #  text: Inform me about new updates and features ›
 #  style: alert
-# permalink: /index.html
+
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
 #
-homepage: true
+
 ---
 
 
