@@ -59,9 +59,22 @@ permalink: /index.html
 #
 homepage: true
 ---
+<div class="row">
+  <div class="column medium-3">
+    <img src="assets/img/favicon-usyd.png">
+  </div>
+  <div class="column medium-9">
+    <div class="row">
+      <h2> Multimedia Laboratory </h2>
+    </div>
+    <div class="row">
+      <h4> The University of Sydney</h4>
+    </div>
+  </div>
+    
+</div>
 
-## Multimedia Lab
-####     The University of Sydney
+--- 
 
 
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
