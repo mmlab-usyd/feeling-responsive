@@ -8,16 +8,16 @@ layout: frontpage
 header:
   image_fullwidth: index_page.jpg
 
-#slider:
-#text_color: white
-#shadow_color: black
-#slides: 
-#  - image: gallery-example-1.jpg
-#    slide_html:
-#  - image: gallery-example-2.jpg
-#    slide_html: "<h2>Yes, this carousel supports html texting</h2>"
-#  - image: gallery-example-3.jpg
-#    slide_html: "<h2>Yes, this carousel supports html texting</h2>"
+slider:
+text_color: white
+shadow_color: black
+slides: 
+  - image: gallery-example-1.jpg
+    slide_html:
+  - image: gallery-example-2.jpg
+    slide_html: "<h2>Yes, this carousel supports html texting</h2>"
+  - image: gallery-example-3.jpg
+    slide_html: "<h2>Yes, this carousel supports html texting</h2>"
 
 widget1:
   title: "Research 1"
@@ -57,7 +57,7 @@ permalink: /index.html
 homepage: true
 ---
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
+<!-- <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -90,7 +90,7 @@ homepage: true
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
-</div>
+</div> -->
 ---
 
 ## News
