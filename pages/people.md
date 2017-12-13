@@ -2,7 +2,7 @@
 layout: page-fullwidth
 show_meta: false
 title: "People"
-subheadline: "Current people at our lab."
+subheadline: ""
 teaser: 
 header:
    image_fullwidth: 
