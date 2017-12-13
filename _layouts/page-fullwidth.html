@@ -4,7 +4,7 @@ format: page-fullwidth
 ---
 {% comment %}
 {% if page.image.title %}
-{% endcomment %}
+
 <div class="row t30">
 	<div class="small-12 columns">
 		<img src="{{ site.urlimg }}{{ page.image.title }}" width="970" alt="{{ page.title | escape_once }}">
@@ -16,7 +16,7 @@ format: page-fullwidth
 	</div><!-- /.small-12.columns -->
 </div><!-- /.row -->
 {% endif %}
-
+{% endcomment %}
 
 <div class="row t30">
 	<div class="medium-12 columns">
