@@ -15,7 +15,7 @@ permalink: "/people/"
 	  <div class="medium-2 columns"><img src="../images/people/wanli_ouyang.jpeg"></div>
 	</div>
 	<div class="row">
-	  <div class="medium-2 columns">Professor Wanli Ouyang</div>
+	  <div class="medium-2 columns"><a href="http://www.ee.cuhk.edu.hk/~wlouyang/">Professor Wanli Ouyang</a></div>
 	</div>
 </div>
 
@@ -25,7 +25,7 @@ permalink: "/people/"
 	  <div class="medium-2 columns"><img src="../images/people/shuyang_sun.png"></div>
 	</div>
 	<div class="row">
-		  <div class="medium-2 columns">Shuyang Sun</div>
+		  <div class="medium-2 columns"><a href="https://kevin-ssy.github.io/">Shuyang Sun</a></div>
 	</div>
 </div>
 
