@@ -71,15 +71,15 @@ homepage: true
 
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
-      <div class="carousel-item active">
+      <div class="item active">
         <img src="images/gallery-example-1.jpg" alt="Los Angeles" style="width:100%;">
       </div>
 
-      <div class="carousel-item">
+      <div class="item">
         <img src="images/gallery-example-2.jpg" alt="Chicago" style="width:100%;">
       </div>
     
-      <div class="carousel-item">
+      <div class="item">
         <img src="images/gallery-example-3.jpg" alt="New york" style="width:100%;">
       </div>
     </div>
