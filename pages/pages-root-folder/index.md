@@ -76,14 +76,14 @@ homepage: true
       </div>
     </div>
     <div class="carousel-item">
-      <img src="gallery-example-2.jpg" alt="...">
+      <img src="gallery-example-2.jpg" alt="Second slide">
       <div class="carousel-caption d-none d-md-block">
         <h3>First Image</h3>
         <p>Some description</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="gallery-example-3.jpg" alt="...">
+      <img src="gallery-example-3.jpg" alt="Third slide">
       <div class="carousel-caption d-none d-md-block">
         <h3>First Image</h3>
         <p>Some description</p>
