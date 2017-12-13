@@ -34,9 +34,8 @@ widget3:
   title: "Our Research 3"
   url: '#'
   image: widget-github-303x182.jpg
-  text: 'our research about xxxxxxxxxxxxxxxxxxxxxxx <br/> is already online!'
-homepage: true
-permalink: /index.html
+  text: 'our research about xxxxxxxxxxxxxxxxxxxxxxx <br/> is already online'
+
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -47,16 +46,16 @@ permalink: /index.html
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-# callforaction:
+#callforaction:
 #  url: https://tinyletter.com/feeling-responsive
 #  text: Inform me about new updates and features ›
 #  style: alert
-
+permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
 #
-
+homepage: true
 ---
 
 
