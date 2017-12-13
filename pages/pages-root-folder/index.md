@@ -59,13 +59,15 @@ permalink: /index.html
 #
 homepage: true
 ---
-<div class="row">
-  <div class="column medium-3">
+
+
+<div class="row" style="margin-top: 15px">
+  <div class="column medium-2">
     <img src="assets/img/favicon-usyd.png" width="140" height="150">
   </div>
-  <div class="column medium-9">
+  <div class="column medium-offset-1 medium-9">
     <div class="row">
-      <h2> Multimedia Laboratory </h2>
+      <h1> Multimedia Laboratory </h1>
     </div>
     <div class="row">
       <h4> The University of Sydney</h4>
