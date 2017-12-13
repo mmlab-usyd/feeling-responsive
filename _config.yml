@@ -42,7 +42,7 @@ urlimg: 'https://mmlab-usyd.github.io/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "index_text.jpg"
+logo: "index_text.png"
 
 # Gems
 gems:
