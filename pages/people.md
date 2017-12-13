@@ -37,16 +37,25 @@ permalink: "/people/"
 	</div>
 	
 	<div class="row">
-	  <div class="medium-3 columns student1"><img src="../images/people/shuyang_sun.png" width="150" height="150"></div>
-	  <div class="medium-3 columns medium-offset-1 student2"><img src="../images/people/geng_zhan.jpg" width="150" height="150"></div>
+	  <div class="medium-2 columns student1"><img src="../images/people/shuyang_sun.png" width="150" height="150"></div>
+	  <div class="medium-2 columns medium-offset-1 student2"><img src="../images/people/geng_zhan.jpg" width="150" height="150"></div>
+	  <div class="medium-2 columns medium-offset-1 student2"></div>
+	  <div class="medium-2 columns medium-offset-1 student2"></div>
+	  <div class="columns medium-offset-1"></div>
 	</div>
 	<div class="row">
-		  <div class="medium-3 columns student1"><a href="https://kevin-ssy.github.io/">Shuyang Sun</a></div>
-		  <div class="medium-3 columns medium-offset-1 student2"><a href="https://gengz.github.io/">Geng Zhan</a></div>
+		  <div class="medium-2 columns student1"><a href="https://kevin-ssy.github.io/">Shuyang Sun</a></div>
+		  <div class="medium-2 columns medium-offset-1 student2"><a href="https://gengz.github.io/">Geng Zhan</a></div>
+		  <div class="medium-2 columns medium-offset-1 student2"></div>
+		  <div class="medium-2 columns medium-offset-1 student2"></div>
+		  <div class="columns medium-offset-1"></div>
 	</div>
 	<div class="row">
-	  <div class="medium-3 columns student1">M.Phil. student</div>
-	  <div class="medium-3 columns medium-offset-1 student1">M.Phil.-Ph.D. student</div>
+	  <div class="medium-2 columns student1">M.Phil. student</div>
+	  <div class="medium-2 columns medium-offset-1 student1">M.Phil.-Ph.D. student</div>
+	  <div class="medium-2 columns medium-offset-1 student2"></div>
+	  <div class="medium-2 columns medium-offset-1 student2"></div>
+	  <div class="columns medium-offset-1"></div>
 	</div>
 </div>
 
