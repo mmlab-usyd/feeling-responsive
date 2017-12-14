@@ -18,13 +18,40 @@ permalink: "/people/"
 	</div>
 	
 	<div class="row">
-	  <div class="medium-4 columns"><img src="../images/people/wanli_ouyang.jpeg" width="150" height="150"></div>
-	</div>
-	<div class="row">
-	  <div class="medium-4 columns"><a href="http://www.ee.cuhk.edu.hk/~wlouyang/">Wanli Ouyang</a></div>
-	</div>
-	<div class="row">
-	  <div class="medium-4 columns">Senior Lecturer</div>
+	  <div class="columns medium-3 faculty1">
+	  	<div class="row">
+	  		<img src="../images/people/wanli_ouyang.jpeg" width="150" height="150">
+	  	</div>
+	  	<div class="row">
+	  		<a href="http://www.ee.cuhk.edu.hk/~wlouyang/">Wanli Ouyang</a>
+	  	</div>
+	  	<div class="row">
+	  		Senior Lecturer
+	  	</div>
+	  </div>
+
+
+	  <div class="columns medium-3 medium-offset-1 faculty2">
+	  	<div class="row">
+	  	</div>
+	  	<div class="row">
+	  	</div>
+	  	<div class="row">
+	  	</div>
+	  </div>
+
+
+	  <div class="columns medium-3 medium-offset-1 faculty3">
+	  	<div class="row">
+	  	</div>
+	  	<div class="row">
+	  	</div>
+	  	<div class="row">
+	  	</div>
+	  </div>
+
+
+	  <div class="columns medium-offset-1"></div>
 	</div>
 </div>
 
@@ -74,27 +101,33 @@ permalink: "/people/"
 		<h3 class="medium-12">Visiting Students</h3>
 		<br/>
 	</div>
-	
 	<div class="row">
-	  <div class="medium-2 columns student1"><img src="../images/people/guo_lu.png" width="150" height="150"></div>
-	  <div class="medium-2 columns medium-offset-1 student2"></div>
-	  <div class="medium-2 columns medium-offset-1 student3"></div>
-	  <div class="medium-2 columns medium-offset-1 student4"></div>
-	  <div class="columns medium-offset-1"></div>
-	</div>
-	<div class="row">
-		  <div class="medium-2 columns student1">Guo Lu</div>
-		  <div class="medium-2 columns medium-offset-1 student2"></div>
-		  <div class="medium-2 columns medium-offset-1 student3"></div>
-		  <div class="medium-2 columns medium-offset-1 student4"></div>
-		  <div class="columns medium-offset-1"></div>
-	</div>
-	<div class="row">
-	  <div class="medium-2 columns student1">Ph.D. from SJTU</div>
-	  <div class="medium-2 columns medium-offset-1 student2"></div>
-	  <div class="medium-2 columns medium-offset-1 student3"></div>
-	  <div class="medium-2 columns medium-offset-1 student4"></div>
-	  <div class="columns medium-offset-1"></div>
+		<div class="medium-2 columns student1">
+		  	<div class="row">
+		  		<img src="../images/people/guo_lu.png" width="150" height="150">
+		  	</div>
+		  	<div class="row">
+		  		Guo Lu
+		  	</div>
+		  	<div class="row">
+		  		Ph.D. from SJTU
+		  	</div>
+		</div>
+
+
+		<div class="medium-2 columns medium-offset-1 student2">
+		  	<div class="row">
+		  	</div>
+		  	<div class="row">
+		  	</div>
+		  	<div class="row">
+		  	</div>
+		</div>
+
+
+		<div class="medium-2 columns medium-offset-1 student3"></div>
+		<div class="medium-2 columns medium-offset-1 student4"></div>
+		<div class="columns medium-offset-1"></div>
 	</div>
 </div>
 
