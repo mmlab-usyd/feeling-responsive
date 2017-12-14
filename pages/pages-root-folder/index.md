@@ -9,16 +9,16 @@ header:
   image_fullwidth:
 title: "Multimedia Lab @ USYD"
 
-slider:
-text_color: white
-shadow_color: black
-slides: 
-  - image: gallery-example-1.jpg
-    slide_html:
-  - image: gallery-example-2.jpg
-    slide_html: "<h2>Yes, this carousel supports html texting</h2>"
-  - image: gallery-example-3.jpg
-    slide_html: "<h2>Yes, this carousel supports html texting</h2>"
+#slider:
+#text_color: white
+#shadow_color: black
+#slides: 
+#  - image: gallery-example-1.jpg
+#    slide_html:
+#  - image: gallery-example-2.jpg
+#    slide_html: "<h2>Yes, this carousel supports html texting</h2>"
+#  - image: gallery-example-3.jpg
+#    slide_html: "<h2>Yes, this carousel supports html texting</h2>"
 
 sidebar: right
 
