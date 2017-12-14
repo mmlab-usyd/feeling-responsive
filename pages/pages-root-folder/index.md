@@ -26,17 +26,17 @@ widget1:
   title: "Research 1"
   url: '#'
   image: widget-1-302x182.jpg
-  text: 'Our research about xxxxxxxxxxxxxxxxxxxxxxxxx'
+  text: 'Our research about xxxxxxxxxxxxxxxxxxxxxxxxx <br/> is already online!'
 widget2:
   title: "Research 2"
   url: '#'
-  text: 'our research about xxxxxxxxxxxxxxxxxxxxxxx <br/>'
+  text: 'our research about xxxxxxxxxxxxxxxxxxxxxxx <br/> is already online!'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Our Research 3"
   url: '#'
   image: widget-github-303x182.jpg
-  text: 'our research about xxxxxxxxxxxxxxxxxxxxxxx <br/> is already online'
+  text: 'our research about xxxxxxxxxxxxxxxxxxxxxxx <br/> is already online!'
 
 #
 # Use the call for action to show a button on the frontpage
@@ -59,6 +59,8 @@ permalink: /index.html
 #
 homepage: true
 ---
+
+<!-- Logo & header -->
 
 
 <div class="row" style="margin-top: 15px">
