@@ -91,24 +91,30 @@ homepage: true
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
       <div class="item active">
-        <img src="images/gallery-example-1.jpg" alt="Los Angeles" style="width:100%;">
-        <div class="carousel-caption d-none d-md-block">
-          <p> caption for the first image. <a href="#">More info</a> </p>
-        </div>
+        <a href="#">
+          <img src="images/gallery-example-1.jpg" alt="Los Angeles" style="width:100%;">
+          <div class="carousel-caption d-none d-md-block">
+            <p> caption for the first image. </p>
+          </div>
+        </a>
       </div>
 
       <div class="item">
-        <img src="images/gallery-example-2.jpg" alt="Chicago" style="width:100%;">
-        <div class="carousel-caption d-none d-md-block">
-          <p> caption for the second image. <a href="#">More info</a> </p>
-        </div>
+        <a href="#">
+          <img src="images/gallery-example-2.jpg" alt="Chicago" style="width:100%;">
+          <div class="carousel-caption d-none d-md-block">
+            <p> caption for the second image.</p>
+          </div>
+        </a>
       </div>
     
       <div class="item">
-        <img src="images/gallery-example-3.jpg" alt="New york" style="width:100%;">
-        <div class="carousel-caption d-none d-md-block">
-          <p> caption for the third image. <a href="#">More info</a> </p>
-        </div>
+        <a href="#">
+          <img src="images/gallery-example-3.jpg" alt="New york" style="width:100%;">
+          <div class="carousel-caption d-none d-md-block">
+            <p>caption for the third image. </p>
+          </div>
+        </a>
       </div>
     </div>
 
