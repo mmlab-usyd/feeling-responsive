@@ -58,11 +58,10 @@ permalink: /index.html
 # this page as active in the topbar navigation
 #
 homepage: true
+
 ---
 
 <!-- Logo & header -->
-
-
 <div class="row" style="margin-top: 15px">
   <div class="column medium-2">
     <img src="assets/img/favicon-usyd.png" width="120" height="128">
@@ -96,6 +95,7 @@ homepage: true
         <a href="#">
           <img src="images/gallery-example-1.jpg" alt="Los Angeles" style="width:100%;">
           <div class="carousel-caption d-none d-md-block">
+            <h3> First Image</h3>
             <p> caption for the first image. </p>
           </div>
         </a>
@@ -105,6 +105,7 @@ homepage: true
         <a href="#">
           <img src="images/gallery-example-2.jpg" alt="Chicago" style="width:100%;">
           <div class="carousel-caption d-none d-md-block">
+            <h3> Second Image</h3>
             <p> caption for the second image.</p>
           </div>
         </a>
@@ -114,6 +115,7 @@ homepage: true
         <a href="#">
           <img src="images/gallery-example-3.jpg" alt="New york" style="width:100%;">
           <div class="carousel-caption d-none d-md-block">
+            <h3> Third Image</h3>
             <p>caption for the third image. </p>
           </div>
         </a>
