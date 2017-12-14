@@ -8,37 +8,40 @@ header:
    image_fullwidth: 
 permalink: "/people/"
 
-title1: Faculty
-people1:
-	- image: wanli_ouyang.jpeg
-	  name: Wanli Ouyang
-	  desc: Senior Lecturer
-	  url: http://www.ee.cuhk.edu.hk/~wlouyang/
+# title1: Faculty
+# people1:
+# 	- image: wanli_ouyang.jpeg
+# 	  name: Wanli Ouyang
+# 	  desc: Senior Lecturer
+# 	  url: http://www.ee.cuhk.edu.hk/~wlouyang/
 
-title2: Postgraduate Students
-people2:
-	- images: shuyang_sun.png
-	  name: Shuyang Sun
-	  desc: M.Phil.
-	  url: https://kevin-ssy.github.io/
-	- images: geng_zhan.jpg
-	  name: Geng Zhan
-	  desc: M.Phil.-Ph.D.
-	  url: https://gengz.github.io/
+# title2: Postgraduate Students
+# people2:
+# 	- images: shuyang_sun.png
+# 	  name: Shuyang Sun
+# 	  desc: M.Phil.
+# 	  url: https://kevin-ssy.github.io/
+# 	- images: geng_zhan.jpg
+# 	  name: Geng Zhan
+# 	  desc: M.Phil.-Ph.D.
+# 	  url: https://gengz.github.io/
 
-title3: Visiting Students
-people3:
-	- images: guo_lu.png
-	  name: Guo Lu
-	  desc: Ph.D from SJTU
-	- images: yingyue_xu.jpeg
-	  name: Yingyue Xu
-	  desc: Ph.D. from University of Oulu
+# title3: Visiting Students
+# people3:
+# 	- images: guo_lu.png
+# 	  name: Guo Lu
+# 	  desc: Ph.D from SJTU
+# 	- images: yingyue_xu.jpeg
+# 	  name: Yingyue Xu
+# 	  desc: Ph.D. from University of Oulu
+
+# {% include _people_list.html people=page.people1 title=page.title1 %}
+# {% include _people_list.html people=page.people2 title=page.title2 %}
+# {% include _people_list.html people=page.people3 title=page.title3 %}
+
 ---
 
-{% include _people_list.html people=page.people1 title=page.title1 %}
-{% include _people_list.html people=page.people2 title=page.title2 %}
-{% include _people_list.html people=page.people3 title=page.title3 %}
+
 
 <!--
 <div class="row">
