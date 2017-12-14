@@ -96,6 +96,7 @@ permalink: "/people/"
 	</div>
 </div>
 
+<!--Visiting students-->
 <div class="row">
 	<div class="row">
 		<h3 class="medium-12">Visiting Students</h3>
@@ -117,10 +118,13 @@ permalink: "/people/"
 
 		<div class="medium-2 columns medium-offset-1 student2">
 		  	<div class="row">
+		  		<img src="../images/people/yingyue_xu.jpeg" width="150" height="150">
 		  	</div>
 		  	<div class="row">
+		  		Yingyue Xu
 		  	</div>
 		  	<div class="row">
+		  		Ph.D. from University of Oulu
 		  	</div>
 		</div>
 
