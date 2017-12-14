@@ -43,7 +43,6 @@ permalink: "/people/"
 
 
 
-<!--
 <div class="row">
 	<div class="row">
 		<h3>Faculty</h3>
@@ -165,7 +164,7 @@ permalink: "/people/"
 		<div class="columns medium-offset-1"></div>
 	</div>
 </div>
--->
+
 
 <div class="row">
 	<div class="row">
