@@ -44,10 +44,7 @@ people3:
 
 ---
 
-{% include _people_list.html people=page.people1 title=page.title1 %}
-{% include _people_list.html people=page.people2 title=page.title2 %}
-{% include _people_list.html people=page.people3 title=page.title3 %}
-<!--
+
 <div class="row">
 	<div class="row">
 		<h3>Faculty</h3>
@@ -169,7 +166,7 @@ people3:
 		<div class="columns medium-offset-1"></div>
 	</div>
 </div>
--->
+
 <div class="row">
 	<div class="row">
 		<h3 class="medium-12">Alumni</h3>
