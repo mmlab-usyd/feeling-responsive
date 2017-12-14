@@ -170,14 +170,11 @@ people3:
 	</div>
 </div>
 -->
----
-
 <div class="row">
 	<div class="row">
 		<h3 class="medium-12">Alumni</h3>
 		<br/>
 	</div>
-	
 	<div class="row">
 	Currently no alumni from our lab as we're just start-up! Come and join us!
 	  <div class="medium-2 columns student1"></div>
