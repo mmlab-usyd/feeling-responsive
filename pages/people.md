@@ -8,39 +8,6 @@ header:
    image_fullwidth: 
 permalink: "/people/"
 
-title1: Faculty
-people1:
-	person:
-		image: wanli_ouyang.jpeg
-		name: Wanli Ouyang
-		desc: Senior Lecturer
-		url: http://www.ee.cuhk.edu.hk/~wlouyang/
-
-title2: Postgraduate Students
-people2:
-	title: Postgraduate Students
-	person:
-		images: shuyang_sun.png
-		name: Shuyang Sun
-		desc: M.Phil.
-		url: https://kevin-ssy.github.io/
-	person:
-		images: geng_zhan.jpg
-		name: Geng Zhan
-		desc: M.Phil.-Ph.D.
-		url: https://gengz.github.io/
-
-title3: Visiting Students
-people3:
-	title: Visiting Students
-	person:
-		images: guo_lu.png
-		name: Guo Lu
-		desc: Ph.D from SJTU
-	person:
-		images: yingyue_xu.jpeg
-		name: Yingyue Xu
-		desc: Ph.D. from University of Oulu
 
 ---
 
