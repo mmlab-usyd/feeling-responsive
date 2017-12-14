@@ -63,7 +63,7 @@ homepage: true
 
 <div class="row" style="margin-top: 15px">
   <div class="column medium-2">
-    <img src="assets/img/favicon-usyd.png" width="140" height="150">
+    <img src="assets/img/favicon-usyd.png" width="120" height="128">
   </div>
   <div class="column medium-offset-1 medium-9">
     <div class="row">
