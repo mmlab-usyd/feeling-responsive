@@ -7,10 +7,47 @@ teaser:
 header:
    image_fullwidth: 
 permalink: "/people/"
+
+title1: Faculty
+people1:
+	person:
+		image: wanli_ouyang.jpeg
+		name: Wanli Ouyang
+		desc: Senior Lecturer
+		url: http://www.ee.cuhk.edu.hk/~wlouyang/
+
+title2: Postgraduate Students
+people2:
+	title: Postgraduate Students
+	person:
+		images: shuyang_sun.png
+		name: Shuyang Sun
+		desc: M.Phil.
+		url: https://kevin-ssy.github.io/
+	person:
+		images: geng_zhan.jpg
+		name: Geng Zhan
+		desc: M.Phil.-Ph.D.
+		url: https://gengz.github.io/
+
+title3: Visiting Students
+people3:
+	title: Visiting Students
+	person:
+		images: guo_lu.png
+		name: Guo Lu
+		desc: Ph.D from SJTU
+	person:
+		images: yingyue_xu.jpeg
+		name: Yingyue Xu
+		desc: Ph.D. from University of Oulu
+
 ---
 
-
-
+{% include _people_list.html people=page.people1 title=page.title1 %}
+{% include _people_list.html people=page.people2 title=page.title2 %}
+{% include _people_list.html people=page.people3 title=page.title3 %}
+<!--
 <div class="row">
 	<div class="row">
 		<h3>Faculty</h3>
@@ -56,7 +93,6 @@ permalink: "/people/"
 </div>
 
 
----
 <div class="row">
 	<div class="row">
 		<h3 class="medium-12">Postgraduate Students</h3>
@@ -96,7 +132,6 @@ permalink: "/people/"
 	</div>
 </div>
 
-<!--Visiting students-->
 <div class="row">
 	<div class="row">
 		<h3 class="medium-12">Visiting Students</h3>
@@ -134,7 +169,7 @@ permalink: "/people/"
 		<div class="columns medium-offset-1"></div>
 	</div>
 </div>
-
+-->
 ---
 
 <div class="row">
