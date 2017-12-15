@@ -87,6 +87,7 @@ permalink: "/people/"
 	</div>
 </div>
 
+---
 
 <div class="row">
 	<div class="row">
@@ -127,6 +128,8 @@ permalink: "/people/"
 	</div>
 </div>
 
+---
+
 <div class="row">
 	<div class="row">
 		<h3 class="medium-12">Visiting Students</h3>
@@ -165,6 +168,7 @@ permalink: "/people/"
 	</div>
 </div>
 
+---
 
 <div class="row">
 	<div class="row">

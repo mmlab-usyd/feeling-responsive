@@ -255,7 +255,7 @@ $align-class-breakpoints:
       font-style: $header-font-style;
       color: $header-font-color;
       text-rendering: $header-text-rendering;
-      margin-top: $header-top-margin;
+      margin-top: 0; // $header-top-margin
       margin-bottom: $header-bottom-margin;
       line-height: $header-line-height;
 

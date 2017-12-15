@@ -63,15 +63,15 @@ homepage: true
 
 <!-- Logo & header -->
 <div class="row" style="margin-top: 15px">
-  <div class="column medium-2">
+  <div class="column small-2">
     <img src="assets/img/favicon-usyd.png" width="120" height="128">
   </div>
-  <div class="column medium-offset-1 medium-9">
+  <div class="column small-10">
     <div class="row">
       <h1> Multimedia Laboratory </h1>
     </div>
     <div class="row">
-      <h4> The University of Sydney</h4>
+      <h2> The University of Sydney</h2>
     </div>
   </div>
     
@@ -79,63 +79,76 @@ homepage: true
 
 --- 
 
-<!-- carrousel -->
-
-<div id="myCarousel" class="carousel slide" data-ride="carousel">
-    <!-- Indicators -->
-    <ol class="carousel-indicators">
-      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-      <li data-target="#myCarousel" data-slide-to="1"></li>
-      <li data-target="#myCarousel" data-slide-to="2"></li>
-    </ol>
-
-    <!-- Wrapper for slides -->
-    <div class="carousel-inner">
-      <div class="item active">
-        <a href="#">
-          <img src="images/gallery-example-1.jpg" alt="Los Angeles" style="width:100%;">
-          <div class="carousel-caption d-none d-md-block">
-            <h3 style="color: #FFFFFF"> First Image</h3>
-            <p> caption for the first image. </p>
-          </div>
-        </a>
-      </div>
-
-      <div class="item">
-        <a href="#">
-          <img src="images/gallery-example-2.jpg" alt="Chicago" style="width:100%;">
-          <div class="carousel-caption d-none d-md-block">
-            <h3 style="color: #FFFFFF"> Second Image</h3>
-            <p> caption for the second image.</p>
-          </div>
-        </a>
-      </div>
+<div class="row main-content">
+  <div class="column small-9">
     
-      <div class="item">
-        <a href="#">
-          <img src="images/gallery-example-3.jpg" alt="New york" style="width:100%;">
-          <div class="carousel-caption d-none d-md-block">
-            <h3 style="color: #FFFFFF"> Third Image</h3>
-            <p>caption for the third image. </p>
+    <!-- carrousel -->
+
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+          <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+          <li data-target="#myCarousel" data-slide-to="1"></li>
+          <li data-target="#myCarousel" data-slide-to="2"></li>
+        </ol>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner">
+          <div class="item active">
+            <a href="#">
+              <img src="images/gallery-example-1.jpg" alt="Los Angeles" style="width:100%;">
+              <div class="carousel-caption d-none d-md-block">
+                <h3 style="color: #FFFFFF"> First Image</h3>
+                <p> caption for the first image. </p>
+              </div>
+            </a>
           </div>
+
+          <div class="item">
+            <a href="#">
+              <img src="images/gallery-example-2.jpg" alt="Chicago" style="width:100%;">
+              <div class="carousel-caption d-none d-md-block">
+                <h3 style="color: #FFFFFF"> Second Image</h3>
+                <p> caption for the second image.</p>
+              </div>
+            </a>
+          </div>
+        
+          <div class="item">
+            <a href="#">
+              <img src="images/gallery-example-3.jpg" alt="New york" style="width:100%;">
+              <div class="carousel-caption d-none d-md-block">
+                <h3 style="color: #FFFFFF"> Third Image</h3>
+                <p>caption for the third image. </p>
+              </div>
+            </a>
+          </div>
+        </div>
+
+        <!-- Left and right controls -->
+        <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+          <span class="glyphicon glyphicon-chevron-left"></span>
+          <span class="sr-only">Previous</span>
         </a>
-      </div>
+        <a class="right carousel-control" href="#myCarousel" data-slide="next">
+          <span class="glyphicon glyphicon-chevron-right"></span>
+          <span class="sr-only">Next</span>
+        </a>
     </div>
-
-    <!-- Left and right controls -->
-    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-      <span class="glyphicon glyphicon-chevron-left"></span>
-      <span class="sr-only">Previous</span>
-    </a>
-    <a class="right carousel-control" href="#myCarousel" data-slide="next">
-      <span class="glyphicon glyphicon-chevron-right"></span>
-      <span class="sr-only">Next</span>
-    </a>
+  </div>
+  <div class="column small-3">
+    <h3>News</h3>
+    <div class="list-group" style="margin-left=0">
+      <button class="list-group-item list-group-item-action">
+        <span class="badge badge-default badge-pill">14-Dec-2017</span>
+        Our lab homepage is now onine!
+      </button>
+      <button class="list-group-item list-group-item-action">
+        <span class="badge badge-default badge-pill">14-Dec-2017</span>
+        We are hiring! Several Ph.D. positions are now available at USYD in computer vision. Candidates with strong academic background and/or solid programming skill are preferred. If you are interested, please send your CV to <a href="mailto:wanli.ouyang@sydney.edu.au"><strong>this email address</strong></a> for further information.
+      </button>
+    </div>
+  </div>
 </div>
-
-
-## News
-- Our lab homepage is now onine!
-- We are hiring! Several Ph.D. positions are now available at USYD in computer vision. Students with strong academic background and/or awesome programming skill are preferred. If you are interested,  please send your CV to [this email address]("mailto:wanli.ouyang@sydney.edu.au") for further information.
 
 ---
