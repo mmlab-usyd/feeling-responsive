@@ -63,7 +63,7 @@ permalink: "/people/"
 	  </div>
 
 
-	  <div class="columns medium-3 medium-offset-1 faculty2">
+	  <div class="columns medium-3 faculty2">
 	  	<div class="row">
 	  	</div>
 	  	<div class="row">
@@ -73,7 +73,7 @@ permalink: "/people/"
 	  </div>
 
 
-	  <div class="columns medium-3 medium-offset-1 faculty3">
+	  <div class="columns medium-3 faculty3">
 	  	<div class="row">
 	  	</div>
 	  	<div class="row">
@@ -96,7 +96,7 @@ permalink: "/people/"
 	</div>
 	
 	<div class="row">
-		<div class="medium-2 columns student1">
+		<div class="small-3 columns student1">
 		  	<div class="row">
 		  		<img src="../images/people/shuyang_sun.png" width="150" height="150">
 		  	</div>
@@ -109,7 +109,7 @@ permalink: "/people/"
 		</div>
 
 
-		<div class="medium-2 columns medium-offset-1 student2">
+		<div class="small-3 columns student2">
 		  	<div class="row">
 		  		<img src="../images/people/geng_zhan.jpg" width="150" height="150">
 		  	</div>
@@ -122,9 +122,8 @@ permalink: "/people/"
 		</div>
 
 
-		<div class="medium-2 columns medium-offset-1 student3"></div>
-		<div class="medium-2 columns medium-offset-1 student4"></div>
-		<div class="columns medium-offset-1"></div>
+		<div class="small-3 columns student3"></div>
+		<div class="small-3 columns student4"></div>
 	</div>
 </div>
 
@@ -136,7 +135,7 @@ permalink: "/people/"
 		<br/>
 	</div>
 	<div class="row">
-		<div class="medium-2 columns student1">
+		<div class="medium-3 columns student1">
 		  	<div class="row">
 		  		<img src="../images/people/guo_lu.png" width="150" height="150">
 		  	</div>
@@ -149,7 +148,7 @@ permalink: "/people/"
 		</div>
 
 
-		<div class="medium-2 columns medium-offset-1 student2">
+		<div class="medium-3 columns student2">
 		  	<div class="row">
 		  		<img src="../images/people/yingyue_xu.jpeg" width="150" height="150">
 		  	</div>
@@ -162,8 +161,8 @@ permalink: "/people/"
 		</div>
 
 
-		<div class="medium-2 columns medium-offset-1 student3"></div>
-		<div class="medium-2 columns medium-offset-1 student4"></div>
+		<div class="medium-3 columns student3"></div>
+		<div class="medium-3 columns student4"></div>
 		<div class="columns medium-offset-1"></div>
 	</div>
 </div>

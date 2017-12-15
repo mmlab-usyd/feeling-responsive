@@ -139,14 +139,22 @@ homepage: true
   <div class="column small-3">
     <h3>News</h3>
     <div class="list-group" style="margin-left=0">
+
+      <button class="list-group-item list-group-item-action list-group-item-success">
+        <span class="badge badge-default badge-pill">14-Dec-2017</span>
+        We are hiring! Several Ph.D. positions are now available at USYD in computer vision. Candidates with strong academic background and/or solid programming skill are highly preferred. If you are interested, please send your CV to <a href="mailto:wanli.ouyang@sydney.edu.au"><strong>this email address</strong></a> for further information.
+      </button>
+      
       <button class="list-group-item list-group-item-action">
         <span class="badge badge-default badge-pill">14-Dec-2017</span>
         Our lab homepage is now onine!
       </button>
+
       <button class="list-group-item list-group-item-action">
-        <span class="badge badge-default badge-pill">14-Dec-2017</span>
-        We are hiring! Several Ph.D. positions are now available at USYD in computer vision. Candidates with strong academic background and/or solid programming skill are preferred. If you are interested, please send your CV to <a href="mailto:wanli.ouyang@sydney.edu.au"><strong>this email address</strong></a> for further information.
+        <span class="badge badge-default badge-pill">15-Sep-2017</span>
+        Our lab established!
       </button>
+
     </div>
   </div>
 </div>
