@@ -7,7 +7,7 @@
 layout: frontpage
 header:
   image_fullwidth:
-title: "Multimedia Lab @ USYD"
+title: "SIGMA Lab @ USYD"
 
 #slider:
 #text_color: white
@@ -62,24 +62,25 @@ homepage: true
 ---
 
 <!-- Logo & header -->
-<div class="row" style="margin-top: 15px">
+<!-- <div class="row" style="margin-top: 15px">
   <div class="column small-2">
     <img src="assets/img/favicon-usyd.png" width="120" height="128">
   </div>
   <div class="column small-10">
     <div class="row">
-      <h1> Multimedia Laboratory </h1>
+      <h1> SIGMA Lab </h1>
     </div>
     <div class="row">
-      <h2> The University of Sydney</h2>
+      <h3 style="margin-top: 30px"> <span style="color: #00AAAA">S</span>ydney <span style="color: #00AAAA">I</span>ntelli<span style="color: #00AAAA">G</span>ent <span style="color: #00AAAA">M</span>ultimedi<span style="color: #00AAAA">A</span>, The University of Sydney</h3>
     </div>
   </div>
     
 </div>
+ -->
 
---- 
 
-<div class="row main-content">
+
+<div class="row main-content" style= " margin-top: 30px">
   <div class="column small-9">
     
     <!-- carrousel -->
