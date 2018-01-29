@@ -5638,6 +5638,7 @@ button.close {
   padding-bottom: 20px;
   color: #fff;
   text-align: center;
+  background: rgba(0, 0, 0, 0.2);
 }
 
 .align-baseline {

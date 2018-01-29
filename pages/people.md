@@ -156,7 +156,7 @@ permalink: "/people/"
 		  		Yingyue Xu
 		  	</div>
 		  	<div class="row">
-		  		Ph.D. from University of Oulu
+		  		Ph.D. from Univ. of Oulu
 		  	</div>
 		</div>
 
