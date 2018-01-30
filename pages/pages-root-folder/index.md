@@ -106,18 +106,20 @@ homepage: true
           </div>
 
           <div class="item">
-            <a href="https://www.youtube.com/watch?time_continue=1&v=MKVvQK8FawE">
-              <img src="images/pose.jpg" alt="Pose Estimation" style="">
+            
+              <img src="images/pose.jpg" alt="Pose Estimation" style="" />
               <div class="carousel-caption d-none d-md-block">
+              <a href="https://www.youtube.com/watch?time_continue=1&v=MKVvQK8FawE">
                 <h3 style="color: #FFFFFF"> Pose Estimation</h3>
                 <p style="color: #FFFFFF"> We have been focusing on pose estimation problem over years. Check our demo by a single click! </p>
+                </a>
               </div>
-            </a>
+            
           </div>
         
           <div class="item">
             <a href="#">
-              <img src="images/re-id.jpg" alt="Re-Identification" style="">
+              <img src="images/re-id.png" alt="Re-Identification" style="">
               <div class="carousel-caption d-none d-md-block">
                 <h3 style="color: #FFFFFF"> Person Re-Identification</h3>
                 <p> We have been focusing on person re-id problem over years.  </p>

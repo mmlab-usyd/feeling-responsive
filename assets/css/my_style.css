@@ -1,12 +1,17 @@
 .carousel {
-   max-height: 350pt;
-   max-width: 660pt;
+   
+   max-width: 1067px;
+   max-height: 560px;
    overflow: hidden;
 }
 
 
 .carousel-inner > .item > img, .carousel-inner > .item > a > img {
-    max-width: 100%;
+    max-width: 1067px;
+    max-height: 560px;
+    width: auto;
+    height: auto;
+    vertical-align: middle;
 }
 
 .carousel-caption {
